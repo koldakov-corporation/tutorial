@@ -6,4 +6,7 @@
 # Оглавление
 
 * [Python](https://github.com/koldakov-corporation/tutorial-python/blob/main/README.ru.md)
+  * Начало работы
+    * [Установка](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/installation.ru.md)
+    * [Первая программа](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/first_program.ru.md)
 * [Система контроля версий](https://github.com/koldakov-corporation/tutorial-vcs/blob/main/README.ru.md)
