@@ -10,4 +10,5 @@
     * [Установка](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/installation.ru.md)
     * [Первая программа](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/first_program.ru.md)
     * [Структура проекта](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/project_structure.ru.md)
+    * [Импорты](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/imports.ru.md)
 * [Система контроля версий](https://github.com/koldakov-corporation/tutorial-vcs/blob/main/README.ru.md)
