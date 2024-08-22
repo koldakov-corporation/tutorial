@@ -11,4 +11,5 @@
     * [Первая программа](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/first_program.ru.md)
     * [Структура проекта](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/project_structure.ru.md)
     * [Импорты](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/imports.ru.md)
+    * [Виртуальное окружение](https://github.com/koldakov-corporation/tutorial-python/blob/main/lessons/getting_started/virtual_env.ru.md)
 * [Система контроля версий](https://github.com/koldakov-corporation/tutorial-vcs/blob/main/README.ru.md)
